@@ -6,3 +6,7 @@ anantapur
 java programming
 c programming
  new text
+class Name{
+public static void main(String[] args){
+printf("hello  world");
+}}
