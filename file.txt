@@ -2,3 +2,6 @@ digi brains
 academcy
 anantapur
 515001
+
+java programming
+c programming
